@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5dabfd626f4d832499b31cd193d6c27c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - landscapeHolder: {fileID: 100000, guid: a388ed941c926d748920ae678639242d, type: 2}
+  - mountainLandscape1: {fileID: 100000, guid: 7c38a2d98f5b8f642811fc94f70830fb, type: 2}
+  - mountainLandscape2: {fileID: 100000, guid: 5201ad04442b1d94c81009a23fae91da, type: 2}
+  - mountainLandscape3: {instanceID: 0}
+  - mountainLandscape4: {instanceID: 0}
+  - mountainLandscape5: {instanceID: 0}
+  - mountainLandscape6: {instanceID: 0}
+  - mountainLandscape7: {instanceID: 0}
+  - mountainLandscape8: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

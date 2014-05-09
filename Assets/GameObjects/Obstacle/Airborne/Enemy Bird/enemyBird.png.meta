@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: ef22aeb17f208eb4a9843857b26ec977
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 85
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: enemyBird_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 642
+        width: 127
+        height: 97
+      alignment: 9
+      pivot: {x: .737200379, y: .434882402}
+    - name: enemyBird_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 642
+        width: 126
+        height: 97
+      alignment: 9
+      pivot: {x: .737200379, y: .434882402}
+    - name: enemyBird_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 642
+        width: 125
+        height: 97
+      alignment: 9
+      pivot: {x: .737200379, y: .434882402}
+    - name: enemyBird_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 642
+        width: 137
+        height: 97
+      alignment: 9
+      pivot: {x: .762026608, y: .434882402}
+    - name: enemyBird_4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 642
+        width: 141
+        height: 97
+      alignment: 9
+      pivot: {x: .768783689, y: .434882402}
+    - name: enemyBird_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 418
+        width: 125
+        height: 100
+      alignment: 9
+      pivot: {x: .737200379, y: .456271052}
+    - name: enemyBird_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 421
+        width: 126
+        height: 104
+      alignment: 9
+      pivot: {x: .737200379, y: .457952946}
+    - name: enemyBird_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 423
+        width: 127
+        height: 102
+      alignment: 9
+      pivot: {x: .737200379, y: .452365041}
+    - name: enemyBird_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 427
+        width: 125
+        height: 98
+      alignment: 9
+      pivot: {x: .737200379, y: .435546875}
+    - name: enemyBird_9
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 427
+        width: 125
+        height: 98
+      alignment: 9
+      pivot: {x: .744882822, y: .435546875}
+    - name: enemyBird_10
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 427
+        width: 125
+        height: 98
+      alignment: 9
+      pivot: {x: .737108409, y: .435546875}
+    - name: enemyBird_11
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 426
+        width: 125
+        height: 99
+      alignment: 9
+      pivot: {x: .748770535, y: .441105992}
+    - name: enemyBird_12
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 427
+        width: 135
+        height: 98
+      alignment: 9
+      pivot: {x: .755536556, y: .435546875}
+    - name: enemyBird_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 125
+        height: 100
+      alignment: 9
+      pivot: {x: .740995705, y: .446553648}
+    - name: enemyBird_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 267
+        width: 125
+        height: 104
+      alignment: 9
+      pivot: {x: .744882822, y: .457952946}
+    - name: enemyBird_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 269
+        width: 126
+        height: 102
+      alignment: 9
+      pivot: {x: .746795416, y: .452365041}
+    - name: enemyBird_16
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 274
+        width: 125
+        height: 97
+      alignment: 9
+      pivot: {x: .752656758, y: .434882402}
+    - name: enemyBird_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 274
+        width: 125
+        height: 97
+      alignment: 9
+      pivot: {x: .748769999, y: .429873437}
+    - name: enemyBird_18
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 272
+        width: 126
+        height: 99
+      alignment: 9
+      pivot: {x: .750652015, y: .43129015}
+    - name: enemyBird_19
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 272
+        width: 126
+        height: 99
+      alignment: 9
+      pivot: {x: .739083409, y: .436197907}
+    - name: enemyBird_20
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 274
+        width: 135
+        height: 97
+      alignment: 9
+      pivot: {x: .759135365, y: .419855177}
+    - name: enemyBird_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 89
+        width: 126
+        height: 106
+      alignment: 9
+      pivot: {x: .746795356, y: .46333012}
+    - name: enemyBird_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 175
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 173
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 172
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 171
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 170
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 168
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 167
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_29
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 165
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_30
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 164
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_31
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 162
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_32
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 162
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_33
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 160
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 158
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_35
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 156
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_36
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 101
+        width: 141
+        height: 97
+      alignment: 9
+      pivot: {x: .765337586, y: .429873288}
+    - name: enemyBird_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 81
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 80
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyBird_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 79
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

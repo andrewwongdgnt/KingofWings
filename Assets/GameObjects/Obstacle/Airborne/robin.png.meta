@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: dc46d2b915b086745bee2f60cbc6d637
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: robin_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1289
+        width: 187
+        height: 145
+      alignment: 9
+      pivot: {x: .287206054, y: .913231552}
+    - name: robin_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1289
+        width: 185
+        height: 145
+      alignment: 9
+      pivot: {x: .289004922, y: .907015264}
+    - name: robin_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1279
+        width: 182
+        height: 155
+      alignment: 9
+      pivot: {x: .268223703, y: .919013858}
+    - name: robin_3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1284
+        width: 180
+        height: 150
+      alignment: 9
+      pivot: {x: .25828892, y: .916314304}
+    - name: robin_4
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1309
+        width: 178
+        height: 125
+      alignment: 9
+      pivot: {x: .248131916, y: .895857394}
+    - name: robin_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1040
+        width: 176
+        height: 80
+      alignment: 9
+      pivot: {x: .243026778, y: .825654626}
+    - name: robin_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1069
+        width: 162
+        height: 51
+      alignment: 9
+      pivot: {x: .183672488, y: .726517022}
+    - name: robin_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1069
+        width: 176
+        height: 92
+      alignment: 9
+      pivot: {x: .248309746, y: .413794488}
+    - name: robin_8
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1069
+        width: 178
+        height: 137
+      alignment: 9
+      pivot: {x: .250744075, y: .273773402}
+    - name: robin_9
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1069
+        width: 181
+        height: 161
+      alignment: 9
+      pivot: {x: .261999309, y: .231869906}
+    - name: robin_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 755
+        width: 183
+        height: 166
+      alignment: 9
+      pivot: {x: .274379641, y: .224198312}
+    - name: robin_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 755
+        width: 185
+        height: 156
+      alignment: 9
+      pivot: {x: .286491752, y: .237052724}
+    - name: robin_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 755
+        width: 182
+        height: 166
+      alignment: 9
+      pivot: {x: .273332536, y: .224198312}
+    - name: robin_13
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 755
+        width: 180
+        height: 161
+      alignment: 9
+      pivot: {x: .255706459, y: .231869519}
+    - name: robin_14
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 755
+        width: 178
+        height: 137
+      alignment: 9
+      pivot: {x: .242908269, y: .273772985}
+    - name: robin_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 441
+        width: 176
+        height: 92
+      alignment: 9
+      pivot: {x: .243026778, y: .403688848}
+    - name: robin_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 441
+        width: 155
+        height: 52
+      alignment: 9
+      pivot: {x: .146975026, y: .722835243}
+    - name: robin_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 412
+        width: 176
+        height: 81
+      alignment: 9
+      pivot: {x: .245668232, y: .827806652}
+    - name: robin_18
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 366
+        width: 178
+        height: 125
+      alignment: 9
+      pivot: {x: .255967736, y: .895857692}
+    - name: robin_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 343
+        width: 181
+        height: 150
+      alignment: 9
+      pivot: {x: .261999309, y: .900816679}
+    - name: robin_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 24
+        width: 183
+        height: 155
+      alignment: 9
+      pivot: {x: .277047664, y: .913921654}
+    - name: robin_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 33
+        width: 185
+        height: 146
+      alignment: 9
+      pivot: {x: .283668488, y: .90252322}
+  spritePackingTag: 
+  userData: 

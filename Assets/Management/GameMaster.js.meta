@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 129d3868f0819004e9c4eb8bdc8412bf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - topWall: {instanceID: 0}
+  - bottomWall: {instanceID: 0}
+  - leftWall: {instanceID: 0}
+  - rightWall: {instanceID: 0}
+  - player: {instanceID: 0}
+  - landscape: {instanceID: 0}
+  - background: {instanceID: 0}
+  - spike: {instanceID: 0}
+  - spikeAnim: {instanceID: 0}
+  - cube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

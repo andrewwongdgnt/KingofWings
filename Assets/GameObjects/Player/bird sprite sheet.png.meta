@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: eb32b9babcaa5db498f9f8850846490f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: bird sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 643
+        width: 123
+        height: 95
+      alignment: 9
+      pivot: {x: .745341599, y: .431158125}
+    - name: bird sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 643
+        width: 123
+        height: 95
+      alignment: 9
+      pivot: {x: .745341718, y: .431158125}
+    - name: bird sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 643
+        width: 123
+        height: 95
+      alignment: 9
+      pivot: {x: .748139918, y: .434781045}
+    - name: bird sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 643
+        width: 133
+        height: 95
+      alignment: 9
+      pivot: {x: .764488757, y: .431158125}
+    - name: bird sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 643
+        width: 139
+        height: 95
+      alignment: 9
+      pivot: {x: .774654686, y: .431158125}
+    - name: bird sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 419
+        width: 123
+        height: 98
+      alignment: 9
+      pivot: {x: .748140097, y: .450827152}
+    - name: bird sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 422
+        width: 123
+        height: 101
+      alignment: 9
+      pivot: {x: .748140156, y: .465919733}
+    - name: bird sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 424
+        width: 123
+        height: 99
+      alignment: 9
+      pivot: {x: .742543042, y: .461754382}
+    - name: bird sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 429
+        width: 123
+        height: 94
+      alignment: 9
+      pivot: {x: .74254328, y: .430425435}
+    - name: bird sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 429
+        width: 123
+        height: 94
+      alignment: 9
+      pivot: {x: .750938356, y: .430425435}
+    - name: bird sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 428
+        width: 123
+        height: 95
+      alignment: 9
+      pivot: {x: .74534148, y: .43840462}
+    - name: bird sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 427
+        width: 123
+        height: 96
+      alignment: 9
+      pivot: {x: .74534148, y: .446216911}
+    - name: bird sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 429
+        width: 131
+        height: 94
+      alignment: 9
+      pivot: {x: .763520896, y: .430425435}
+    - name: bird sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 272
+        width: 123
+        height: 97
+      alignment: 9
+      pivot: {x: .745341599, y: .450320214}
+    - name: bird sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 269
+        width: 123
+        height: 100
+      alignment: 9
+      pivot: {x: .753737032, y: .462136835}
+    - name: bird sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 270
+        width: 123
+        height: 99
+      alignment: 9
+      pivot: {x: .750938356, y: .461754382}
+    - name: bird sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 275
+        width: 123
+        height: 94
+      alignment: 9
+      pivot: {x: .750938356, y: .431048125}
+    - name: bird sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 275
+        width: 123
+        height: 94
+      alignment: 9
+      pivot: {x: .75, y: .431048095}
+    - name: bird sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 274
+        width: 123
+        height: 95
+      alignment: 9
+      pivot: {x: .750938356, y: .431158125}
+    - name: bird sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 273
+        width: 123
+        height: 96
+      alignment: 9
+      pivot: {x: .748140156, y: .442631394}
+    - name: bird sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 275
+        width: 131
+        height: 94
+      alignment: 9
+      pivot: {x: .760893166, y: .434087217}
+    - name: bird sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 102
+        width: 137
+        height: 95
+      alignment: 9
+      pivot: {x: .773877203, y: .434781194}
+    - name: bird sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 91
+        width: 123
+        height: 102
+      alignment: 9
+      pivot: {x: .748864532, y: .471696138}
+    - name: bird sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 32
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 35
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 176
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 175
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 173
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 172
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 171
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 169
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 167
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 166
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 164
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 163
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 162
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 160
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 158
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 83
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 81
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bird sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 80
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
